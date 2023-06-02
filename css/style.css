@@ -1,0 +1,26 @@
+@import url("http://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+* {
+  font-family: poppins;
+}
+
+.navbar {
+  margin-left: 50px;
+}
+
+.icon {
+  margin-top: 50px;
+}
+
+.icon a {
+  margin-left: 30px;
+}
+
+.icon a image {
+  width: 10px;
+}
+
+.bahasapemrogaman tr {
+  max-width: 250px;
+  margin: 200px;
+}
